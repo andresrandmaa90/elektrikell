@@ -1,0 +1,26 @@
+{
+  "name": "SpotPrice — Cheapest Electricity Hours",
+  "short_name": "SpotPrice",
+  "description": "Check Nord Pool electricity spot prices and get notified at the cheapest hours",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080d1c",
+  "theme_color": "#0a0f1e",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "lifestyle"],
+  "screenshots": []
+}
